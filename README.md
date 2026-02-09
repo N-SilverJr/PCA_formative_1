@@ -115,4 +115,8 @@ Benchmarked computation methods:
 - **Reduction:** 37% fewer dimensions
 - **Information Retained:** 90.15% of variance
 
-### Top Eigenvalues (First 10 PCs)
+## Installation & Usage
+
+### Requirements
+```bash
+pip install -r requirements.txt
